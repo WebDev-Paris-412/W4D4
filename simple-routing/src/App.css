@@ -1,0 +1,13 @@
+*:not(dialog) {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	color: inherit;
+}
+
+main {
+	margin-top: 6rem;
+}
